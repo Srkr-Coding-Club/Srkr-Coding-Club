@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 Welcome to SRKR CODING CLUB! 🌟<br><br>We’re dedicated to providing top-notch content on programming languages like C and Python. 💻<br><br>Our goal is to empower developers of all levels with practical insights and tutorials. 📚<br><br>Stay connected with us on social media for the latest updates and engaging content. 📱<br><br>We’re growing rapidly and excited about the future. Join us on this journey! 🚀
 
 
